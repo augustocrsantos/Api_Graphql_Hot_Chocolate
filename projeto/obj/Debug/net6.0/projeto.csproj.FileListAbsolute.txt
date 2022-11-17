@@ -1,0 +1,12 @@
+C:\Users\Augusto\source\repos\ApiGraphQL\projeto\bin\Debug\net6.0\projeto.deps.json
+C:\Users\Augusto\source\repos\ApiGraphQL\projeto\bin\Debug\net6.0\projeto.dll
+C:\Users\Augusto\source\repos\ApiGraphQL\projeto\bin\Debug\net6.0\projeto.pdb
+C:\Users\Augusto\source\repos\ApiGraphQL\projeto\obj\Debug\net6.0\projeto.csproj.AssemblyReference.cache
+C:\Users\Augusto\source\repos\ApiGraphQL\projeto\obj\Debug\net6.0\projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Augusto\source\repos\ApiGraphQL\projeto\obj\Debug\net6.0\projeto.AssemblyInfoInputs.cache
+C:\Users\Augusto\source\repos\ApiGraphQL\projeto\obj\Debug\net6.0\projeto.AssemblyInfo.cs
+C:\Users\Augusto\source\repos\ApiGraphQL\projeto\obj\Debug\net6.0\projeto.csproj.CoreCompileInputs.cache
+C:\Users\Augusto\source\repos\ApiGraphQL\projeto\obj\Debug\net6.0\projeto.dll
+C:\Users\Augusto\source\repos\ApiGraphQL\projeto\obj\Debug\net6.0\refint\projeto.dll
+C:\Users\Augusto\source\repos\ApiGraphQL\projeto\obj\Debug\net6.0\projeto.pdb
+C:\Users\Augusto\source\repos\ApiGraphQL\projeto\obj\Debug\net6.0\ref\projeto.dll

@@ -2,8 +2,8 @@
 {
     public class Cliente
     {
-        public int? Id { get; set; }     
-        public string? Nome { get; set; }
-        public string? endereco { get; set; }
+        public virtual int? Id { get; set; }     
+        public virtual string Nome { get; set; }
+        public virtual string endereco { get; set; }
     }
 }

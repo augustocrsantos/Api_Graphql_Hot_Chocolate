@@ -641,6 +641,16 @@
         "runtime": {
           "lib/netcoreapp2.1/_._": {}
         }
+      },
+      "projeto/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/projeto.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/projeto.dll": {}
+        }
       }
     }
   },
@@ -1614,12 +1624,18 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "projeto/1.0.0": {
+      "type": "project",
+      "path": "../projeto/projeto.csproj",
+      "msbuildProject": "../projeto/projeto.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "HotChocolate.AspNetCore >= 12.15.2",
-      "Swashbuckle.AspNetCore >= 6.2.3"
+      "Swashbuckle.AspNetCore >= 6.2.3",
+      "projeto >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -1656,7 +1672,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Augusto\\source\\repos\\ApiGraphQL\\projeto\\projeto.csproj": {
+              "projectPath": "C:\\Users\\Augusto\\source\\repos\\ApiGraphQL\\projeto\\projeto.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

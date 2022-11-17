@@ -1,4 +1,5 @@
 ﻿using ApiGraphQL.Entidade;
+using projeto;
 
 namespace ApiGraphQL.Schema
 {
@@ -27,6 +28,16 @@ namespace ApiGraphQL.Schema
             cliente.endereco = "icaraí";
 
             return cliente;
+        }
+
+        public Pessoa RetornaPessoa()
+        {
+            Pessoa pessoa= new Pessoa();
+            pessoa.nome = "augusto";
+            pessoa.cidade = "Divinopolis";
+            return pessoa;  
+
+
         }
 
         public string teste => "Augusto Teste ";

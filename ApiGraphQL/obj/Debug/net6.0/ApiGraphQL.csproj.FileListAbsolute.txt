@@ -52,3 +52,5 @@ C:\Users\Augusto\source\repos\ApiGraphQL\ApiGraphQL\bin\Debug\net6.0\HotChocolat
 C:\Users\Augusto\source\repos\ApiGraphQL\ApiGraphQL\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\Augusto\source\repos\ApiGraphQL\ApiGraphQL\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
 C:\Users\Augusto\source\repos\ApiGraphQL\ApiGraphQL\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Augusto\source\repos\ApiGraphQL\ApiGraphQL\bin\Debug\net6.0\projeto.dll
+C:\Users\Augusto\source\repos\ApiGraphQL\ApiGraphQL\bin\Debug\net6.0\projeto.pdb
